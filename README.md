@@ -6,65 +6,75 @@
 
 I'm a Senior Web Developer with a strong passion for crafting seamless and high-performing websites. Over the past 5 years, I have worked with digital marketing agencies, helping businesses and individuals transform their ideas into compelling digital experiences. Whether you're looking for custom WordPress solutions, Shopify stores, or other CMS-based platforms, I can help you build something extraordinary.
 
-### 🌐 Portfolio
+# 🌐 Portfolio
 
-Here are some of the websites I've developed:
+Here are some of the websites I've developed, organized by niche:
 
-- [Infinitude Fight](https://infinitudefight.com) - A multi-million dollar e-commerce store for combat sports.
-- [Tree of Light Health](https://treeoflighthealth.com) - A wellness platform offering health insights and services.
-- [The Smartphone Medics](https://thesmartphonemedics.com) - A tech repair service specializing in smartphones.
-- [Nano Repairs](https://nanorepairs.us) - A comprehensive repair service with a wide array of solutions.
-- [Boxing Shop USA](https://boxingshopusa.com) - An online store for boxing gear and apparel.
-- [Kanda Tile Corporation](https://kandatilecorporation.com) - A company specializing in tiles and stonework services.
-- [LD Langston Detailing](https://ldlangstondetailing.com) - A premium auto-detailing service for cars and other vehicles.
-- [KIPP Technologies](https://kipptechnologies.com) - A tech solutions provider for businesses.
-- [Odd Jobr](https://oddjobr.com) - A platform connecting users with freelancers for various tasks.
-- [New 4Rmations](https://new4rmations.com) - A faith-based men's movement supporting spiritual growth.
-- [Save Gadget](https://repair.savegadget.com) - A repair service for electronic devices.
-- [SD Cell Plus](https://sdcellplus.com) - A mobile and tech repair service.
-- [Steady Fix](https://steadyfix.com) - Offering tech repair solutions.
-- [Tech Emporium](https://techemporium.ca) - A Canadian technology repair service.
-- [The Mobile Market](https://themobilemarket.ca) - A mobile device service provider in Canada.
-- [True Geek LLC](https://truegeekllc.com) - A tech repair service provider.
-- [Safe2013](https://safe2013.fr) - A French site specializing in tech services.
-- [RepairDesk](https://www.repairdesk.co) - A management platform for repair shops.
-- [Raztech](https://raztech.ca) - A tech repair and service company.
-- [Quack Quack NC](https://www.quackquacknc.com) - A service provider in the U.S.
-- [PTown Cell Repair](https://ptowncellrepair.com) - Mobile and tech repair solutions.
-- [ProDevice](https://prodevice.us) - A U.S.-based tech repair service.
-- [My Phone Repair](https://myphonerepairmi.com) - A mobile repair service.
-- [My Mobile Expert](https://mymobilexpert.com) - Mobile and tech repair experts.
-- [Mr Fix Repair](https://mrfixrepair.com) - A U.S.-based phone repair service.
-- [Mold Inspection Marketing](https://moldinspectionmarketing.com) - Digital marketing for mold inspection businesses.
-- [Mobile Doctor Ottawa](https://mobiledoctorottawa.ca) - A Canadian tech repair service.
-- [Marques IT Solutions](https://marquessitsolutions.com) - Providing IT solutions for businesses.
-- [MacnDroid](https://macndroid.com) - Tech repair service specializing in Apple and Android devices.
-- [Gadget Repair Pro](https://gadgetrepairpro.com) - Professional repair for tech devices.
-- [Fix It Pro](https://fixitpro.co) - Comprehensive repair services.
-- [Fix My Gadget](https://fixmygadget.com) - Tech repair for various devices.
-- [Four Corners Repair](https://www.fourcornersrepair.com) - Tech repair service for mobile and more.
-- [Gadget Defenders](https://gadgetdefenders.com) - A repair service for mobile gadgets.
-- [Gadgeter Repair](https://gadgeterrepair.com) - Specializing in mobile and tech repair.
-- [Fix & Go NY](https://fixandgony.com) - Tech repair services in New York.
-- [Dee's Mobile Solutions](https://deesmobilesolutions.com) - Mobile tech repair services.
-- [Cell Pros Fresno](https://www.cellprosfresno.com) - A Fresno-based mobile repair shop.
-- [Cell N Tech](https://cellntech.ca) - A tech repair company in Canada.
-- [Bulk Fight Gear](https://bulkfightgear.com) - Bulk supplier of boxing gear.
-- [Budget Repair](https://budget.repair) - Affordable tech repair solutions.
-- [Appcessories Electronics](https://appcessorieselectronics.com) - Tech accessories and repairs.
-- [All None Tech Solutions](https://allnonetechsolutions.com) - Comprehensive tech solutions.
-- [Tidal Wave Pressure Washing](https://www.tidalwavepressurewashing.com) - Cleaning services in the U.S.
-- [Heavenly Movers DFW](https://heavenlymoversdfw.com) - Moving services in the Dallas-Fort Worth area.
-- [Renew Rents](https://renewrents.com) - Property rental and management services.
-- [Knox Tenn Roots LLC](https://www.knoxtennrootsllc.com) - A Tennessee-based tree services company.
-- [Fast Easy Towing](https://fasteasytowing.com) - Towing services.
-- [Elite Power Washing DFW](https://elitepowerwashingdfw.com) - Pressure washing services in Dallas.
-- [WannaFix LLC](https://wannafixllc.com) - Tech repair services.
-- [So Fresh Detailing](https://sofreshdetailing.com) - Vehicle detailing services.
-- [Juvi's Moving Services](https://juvismovingservices.com) - Moving services for homes and offices.
-- [Oint Towing Services](https://ointtowingservices.com) - Towing solutions.
-- [Bubbles Auto Spa](https://bubblesautospallc.com) - Auto detailing service.
-- [Weiss Krallman MD](https://weisskrallmanmd.com) - A platform showcasing artistic paintings.
+---
+
+### **E-commerce & Combat Sports**
+- [Infinitude Fight](https://infinitudefight.com)
+- [Boxing Shop USA](https://boxingshopusa.com)
+
+### **Health & Wellness**
+- [Tree of Light Health](https://treeoflighthealth.com)
+
+### **Professional Services**
+- [Kanda Tile Corporation](https://kandatilecorporation.com)
+- [LD Langston Detailing](https://ldlangstondetailing.com)
+- [Marques IT Solutions](https://marquessitsolutions.com)
+- [Renew Rents](https://renewrents.com)
+- [Knox Tenn Roots LLC](https://www.knoxtennrootsllc.com)
+- [Fast Easy Towing](https://fasteasytowing.com)
+- [Elite Power Washing DFW](https://elitepowerwashingdfw.com)
+- [So Fresh Detailing](https://sofreshdetailing.com)
+- [Juvi's Moving Services](https://juvismovingservices.com)
+- [Oint Towing Services](https://ointtowingservices.com)
+- [Bubbles Auto Spa](https://bubblesautospallc.com)
+- [Alayjiah Cleaning Services](https://alayjiahcleaningservicesdfw.com)
+- [Peacock Nationwide Painting Contractors](https://peacocknationwidepaintingcontractors.com)
+- [Goldfather Mia](https://goldfathermia.com)
+
+### **Tech & Device Repair Services**
+- [The Smartphone Medics](https://thesmartphonemedics.com)
+- [Nano Repairs](https://nanorepairs.us)
+- [Save Gadget](https://repair.savegadget.com)
+- [SD Cell Plus](https://sdcellplus.com)
+- [Steady Fix](https://steadyfix.com)
+- [Tech Emporium](https://techemporium.ca)
+- [The Mobile Market](https://themobilemarket.ca)
+- [True Geek LLC](https://truegeekllc.com)
+- [Safe2013](https://safe2013.fr)
+- [RepairDesk](https://www.repairdesk.co)
+- [Raztech](https://raztech.ca)
+- [PTown Cell Repair](https://ptowncellrepair.com)
+- [ProDevice](https://prodevice.us)
+- [My Phone Repair](https://myphonerepairmi.com)
+- [My Mobile Expert](https://mymobilexpert.com)
+- [Mr Fix Repair](https://mrfixrepair.com)
+- [Mobile Doctor Ottawa](https://mobiledoctorottawa.ca)
+- [MacnDroid](https://macndroid.com)
+- [Gadget Repair Pro](https://gadgetrepairpro.com)
+- [Fix It Pro](https://fixitpro.co)
+- [Fix My Gadget](https://fixmygadget.com)
+- [Four Corners Repair](https://www.fourcornersrepair.com)
+- [Gadget Defenders](https://gadgetdefenders.com)
+- [Gadgeter Repair](https://gadgeterrepair.com)
+- [Fix & Go NY](https://fixandgony.com)
+- [Dee's Mobile Solutions](https://deesmobilesolutions.com)
+- [Cell Pros Fresno](https://www.cellprosfresno.com)
+- [Cell N Tech](https://cellntech.ca)
+- [Appcessories Electronics](https://appcessorieselectronics.com)
+
+### **Marketing & Consulting**
+- [Mold Inspection Marketing](https://moldinspectionmarketing.com)
+
+### **Faith-Based Initiatives**
+- [New 4Rmations](https://new4rmations.com)
+
+---
+
+Feel free to explore these projects for a comprehensive view of my experience across multiple industries!
 
 ### 💼 Expertise
 - **WordPress Development**: Proficient in creating dynamic and responsive websites using Elementor, Advanced Custom Fields (ACF), and WooCommerce, ensuring seamless functionality and user experience.
