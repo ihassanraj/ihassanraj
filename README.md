@@ -19,6 +19,13 @@ Here are some of the websites I've developed, organized by niche:
 ### **Health & Wellness**
 - [Tree of Light Health](https://treeoflighthealth.com)
 
+### **Auto Services**
+- [Sarasota Ceramic Tint](https://sarasotaceramictint.com)
+- [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
+- [Columbus Car Wrap](https://columbuscarwrap.com)
+- [Dads Auto Detailing](https://dadsautodetailing.com)
+- [Executive Auto SC](https://executiveautosc.com)
+
 ### **Professional Services**
 - [Kanda Tile Corporation](https://kandatilecorporation.com)
 - [LD Langston Detailing](https://ldlangstondetailing.com)
