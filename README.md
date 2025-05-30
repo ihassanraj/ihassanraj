@@ -1,32 +1,133 @@
-# 👋 Hi, I'm Hassan!
+# 👋 Hi, I'm Hassan Abdullah
 
-**🚀 Senior Web Developer @Snexus LLC | WordPress Developer ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=white) | ![Shopify](https://img.shields.io/badge/Shopify-blue?style=flat-square&logo=shopify&logoColor=white) Shopify | ![WooCommerce](https://img.shields.io/badge/WooCommerce-purple?style=flat-square&logo=woocommerce&logoColor=white) WooCommerce | ![Elementor](https://img.shields.io/badge/Elementor-red?style=flat-square&logo=elementor&logoColor=white) Elementor Pro | ![ACF](https://img.shields.io/badge/ACF-orange?style=flat-square&logo=advanced-custom-fields&logoColor=white) ACF | ![GoDaddy](https://img.shields.io/badge/GoDaddy-darkgreen?style=flat-square&logo=godaddy&logoColor=white) GoDaddy Builder | ![Squarespace](https://img.shields.io/badge/Squarespace-black?style=flat-square&logo=squarespace&logoColor=white) Squarespace | ![BookingKoala](https://img.shields.io/badge/BookingKoala-lightblue?style=flat-square&logoColor=white) BookingKoala | ![Wix](https://img.shields.io/badge/Wix-yellow?style=flat-square&logo=wix&logoColor=white) Wix |  ![HexaClicks](https://img.shields.io/badge/HexaClicks-lightblue?style=flat-square&logoColor=white) x HexaClicks**
+**🌍 Remote-Ready Senior Web Developer | WordPress Expert | UI-Focused Problem Solver**
 
-# 🌟 *WordPress Specialist & Multi-Platform Web Developer*
-
-I'm a Senior Web Developer with a strong passion for crafting seamless and high-performing websites. Over the past 5 years, I have worked with digital marketing agencies, helping businesses and individuals transform their ideas into compelling digital experiences. Whether you're looking for custom WordPress solutions, Shopify stores, or other CMS-based platforms, I can help you build something extraordinary.
-
-# 🌐 Portfolio
-
-Here are some of the websites I've developed, organized by niche:
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-green?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-purple?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-red?style=flat-square&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-orange?style=flat-square&logo=advanced-custom-fields&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-yellow?style=flat-square&logo=wix&logoColor=black)
+![Squarespace](https://img.shields.io/badge/Squarespace-black?style=flat-square&logo=squarespace&logoColor=white)
 
 ---
 
-### **E-commerce & Combat Sports**
+## 💡 Who I Am
+
+I’m a results-driven **Senior Web Developer** with 5+ years of experience delivering production-ready websites for small businesses, agencies, and e-commerce brands — mostly across the U.S. I focus on creating fast, scalable, and visually sharp digital experiences using WordPress, Shopify, and other modern platforms.
+
+I’ve worked with over **50+ U.S.-based companies** across industries like auto services, e-commerce, healthcare, and tech repair — many of them relying on me not just to code, but to **lead**, **optimize**, and **deliver**.
+
+---
+
+## 🔧 Tech Stack & Strengths
+
+| Area | Skills |
+|------|--------|
+| **Languages** | HTML5, CSS3, PHP, JavaScript (ES6+), jQuery |
+| **CMS Platforms** | WordPress (Gutenberg, ACF, Elementor), Shopify, Squarespace, Wix |
+| **E-commerce** | WooCommerce, Shopify Storefronts, Cart & Checkout Optimization |
+| **Performance** | Core Web Vitals, Lazy Loading, Caching, Lighthouse 95+ |
+| **SEO & Analytics** | On-page SEO, Schema, GA4, Search Console |
+| **DevOps** | Git, Staging Environments, WebOps Workflows |
+| **Soft Skills** | Remote collaboration, async communication, clear documentation |
+
+---
+
+## 🌍 Projects
+
+Here are a few live, real-world websites I’ve developed — with full-stack responsibility on design, performance, SEO, and uptime.
+
+### 🛒 E-commerce
+
+- [Infinitude Fight](https://infinitudefight.com) – WordPress + Three.js customizer (AOV +20%)
+- [Boxing Shop USA](https://boxingshopusa.com) – WordPress + WooCommerce Wholesale Query
+
+### 🧘 Health & Wellness
+
+- [Tree of Light Health](https://treeoflighthealth.com) – Multisite setup, schema-rich SEO
+- [Cosolargy](https://cosolargy.org) – Modern WordPress frontend for legacy nonprofit
+
+### 🚗 Auto Detailing & Wrap Services (U.S.-based)
+
+- [Manny's Ceramic Pro Touch](https://mannyceramicprotouch.com)
+- [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
+- [Executive Auto SC](https://executiveautosc.com)
+
+### 🧰 Device & Tech Repair
+
+- [Steady Fix](https://steadyfix.com)
+- [Nano Repairs](https://nanorepairs.us)
+- [The Smartphone Medics](https://thesmartphonemedics.com)
+
+🟰 and 40+ more at the bottom of this profile.
+
+---
+
+## ✅ What You Get If You Hire Me
+
+- **Real-World Performance Focus**: Core Web Vitals optimized, not just pretty UIs
+- **Remote-Ready Communication**: I’ve worked async with U.S. teams, using Slack, Trello, Loom, Notion, and Git
+- **Frontend + Backend**: Full WordPress stack mastery — from ACF to WooCommerce checkout flows
+- **Zero Guesswork**: I can translate non-tech business requirements into working features
+- **Long-Term Thinking**: I code with maintainability, security, and SEO in mind
+
+---
+
+## 💬 Let's Talk
+
+📧 [ihassanraj@gmail.com](mailto:ihassanraj@gmail.com)  
+🌐 [linkedin.com/in/hassanraj](https://www.linkedin.com/in/hassanraj)  
+📞 +92 309 9990225  
+
+Want a developer who speaks your language, hits deadlines, and sweats the details?
+
+Let’s connect — I’m open to **remote roles**, **team collaboration**, or **contract-to-hire opportunities** in U.S.-based companies.
+
+---
+
+## 🧾 Resume Summary
+
+If you want the TL;DR:
+
+- 5+ years of hands-on dev experience
+- Core strengths in WordPress, WooCommerce, Shopify
+- Proven success working with U.S. clients
+- Strong understanding of performance, SEO, and UX
+- Remote-collaboration ready and timezone-flexible
+
+---
+
+### 🎯 Bonus: Full Portfolio
+
+---
+
+## 📂 Portfolio
+
+### 🛒 E-commerce & Retail
+
 - [Infinitude Fight](https://infinitudefight.com)
 - [Boxing Shop USA](https://boxingshopusa.com)
+- [The Smashies](https://thesmashies.com)
 
-### **Health & Wellness**
+### 🧘 Health & Wellness
+
 - [Tree of Light Health](https://treeoflighthealth.com)
+- [Cosolargy](https://cosolargy.org)
 
-### **Auto Services**
+### 🚗 Auto Services & Detailing
+
+- [Manny's Ceramic Pro Touch](https://mannyceramicprotouch.com)
 - [Sarasota Ceramic Tint](https://sarasotaceramictint.com)
 - [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
 - [Columbus Car Wrap](https://columbuscarwrap.com)
 - [Dads Auto Detailing](https://dadsautodetailing.com)
 - [Executive Auto SC](https://executiveautosc.com)
+- [Rock and Roll Roofs](https://www.rockandrollroofs.com)
+- [Icon Rocklear NorCal](https://iconrocklearnorcal.com)
 
-### **Professional Services**
+### 🏢 Professional & Business Services
+
 - [Kanda Tile Corporation](https://kandatilecorporation.com)
 - [LD Langston Detailing](https://ldlangstondetailing.com)
 - [Marques IT Solutions](https://marquessitsolutions.com)
@@ -41,8 +142,10 @@ Here are some of the websites I've developed, organized by niche:
 - [Alayjiah Cleaning Services](https://alayjiahcleaningservicesdfw.com)
 - [Peacock Nationwide Painting Contractors](https://peacocknationwidepaintingcontractors.com)
 - [Goldfather Mia](https://goldfathermia.com)
+- [The Warehouse AZ](https://thewarehouseaz.com)
 
-### **Tech & Device Repair Services**
+### 🔧 Tech & Device Repair
+
 - [The Smartphone Medics](https://thesmartphonemedics.com)
 - [Nano Repairs](https://nanorepairs.us)
 - [Save Gadget](https://repair.savegadget.com)
@@ -73,31 +176,14 @@ Here are some of the websites I've developed, organized by niche:
 - [Cell N Tech](https://cellntech.ca)
 - [Appcessories Electronics](https://appcessorieselectronics.com)
 
-### **Marketing & Consulting**
-- [Mold Inspection Marketing](https://moldinspectionmarketing.com)
+### 🎓 Education & Certification
 
-### **Faith-Based Initiatives**
-- [New 4Rmations](https://new4rmations.com)
+- [AMBCI](https://ambci.org)
+- [ANHCO](https://anhco.org)
 
----
+### 🛠️ Construction & Roofing
 
-Feel free to explore these projects for a comprehensive view of my experience across multiple industries!
-
-### 💼 Expertise
-- **WordPress Development**: Proficient in creating dynamic and responsive websites using Elementor, Advanced Custom Fields (ACF), and WooCommerce, ensuring seamless functionality and user experience.
-- **Custom Plugin Development**: Experienced in developing bespoke plugins tailored to specific client needs, enhancing website functionality and performance.
-- **E-commerce Solutions**: Skilled in building and optimizing e-commerce platforms on Shopify and WooCommerce, integrating payment gateways, inventory management, and shipping solutions to drive sales.
-- **Multi-Platform Development**: Expertise in utilizing website builders like Squarespace, GoDaddy Builder, Wix, and BookingKoala to create visually appealing and user-friendly sites that meet client objectives.
-- **Search Engine Optimization (SEO)**: Comprehensive knowledge of on-page and off-page SEO strategies, including keyword research, content optimization, and backlinking, to improve website visibility and search rankings.
-- **Digital Marketing**: Proficient in running targeted Facebook Ads and Google Ads campaigns to boost brand awareness, drive traffic, and generate leads.
-- **UI/UX Design**: Strong ability to design intuitive user interfaces and user experiences, conducting user research and creating wireframes and mockups to guide development.
-- **Social Media Management**: Experienced in managing social media platforms, creating engaging content, and developing strategies to enhance brand presence and audience engagement.
-- **Client Collaboration**: Proven ability to work closely with project managers and stakeholders to understand business requirements and deliver high-quality web solutions on time and within budget.
-- **Analytics and Reporting**: Skilled in using tools like Google Analytics and Search Console to track website performance, user behavior, and campaign effectiveness, providing actionable insights for continuous improvement.
+- [Rock and Roll Roofs](https://www.rockandrollroofs.com)
 
 ---
-
-### 📞 Contact Me
-- Email: ihassanraj@gmail.com
-- Linkedin.com/in/hassanraj
-- Phone: +92 309 9990225
+## fin
