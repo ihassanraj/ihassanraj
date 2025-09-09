@@ -1,189 +1,98 @@
-# 👋 Hi, I'm Hassan Abdullah
+# ⚡ Hassan Abdullah
 
-**🌍 Remote-Ready Senior Web Developer | WordPress Expert | UI-Focused Problem Solver**
+**Senior Full Stack Developer | Scaling WordPress & Shopify for SaaS, E-Commerce & Agencies**
 
-![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-green?style=flat-square&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-purple?style=flat-square&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-red?style=flat-square&logo=elementor&logoColor=white)
-![ACF](https://img.shields.io/badge/ACF-orange?style=flat-square&logo=advanced-custom-fields&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-yellow?style=flat-square&logo=wix&logoColor=black)
-![Squarespace](https://img.shields.io/badge/Squarespace-black?style=flat-square&logo=squarespace&logoColor=white)
+> *Turning complex web ecosystems into secure, scalable, and revenue-driving platforms.*
 
 ---
 
-## 💡 Who I Am
+## 🧭 My Core Thesis
 
-I’m a results-driven **Senior Web Developer** with 5+ years of experience delivering production-ready websites for small businesses, agencies, and e-commerce brands — mostly across the U.S. I focus on creating fast, scalable, and visually sharp digital experiences using WordPress, Shopify, and other modern platforms.
+Every company I work with faces the same bottleneck:  
+> **Web infrastructure that doesn’t scale with growth.**
 
-I’ve worked with over **50+ U.S.-based companies** across industries like auto services, e-commerce, healthcare, and tech repair — many of them relying on me not just to code, but to **lead**, **optimize**, and **deliver**.
-
----
-
-## 🔧 Tech Stack & Strengths
-
-| Area | Skills |
-|------|--------|
-| **Languages** | HTML5, CSS3, PHP, JavaScript (ES6+), jQuery |
-| **CMS Platforms** | WordPress (Gutenberg, ACF, Elementor), Shopify, Squarespace, Wix |
-| **E-commerce** | WooCommerce, Shopify Storefronts, Cart & Checkout Optimization |
-| **Performance** | Core Web Vitals, Lazy Loading, Caching, Lighthouse 95+ |
-| **SEO & Analytics** | On-page SEO, Schema, GA4, Search Console |
-| **DevOps** | Git, Staging Environments, WebOps Workflows |
-| **Soft Skills** | Remote collaboration, async communication, clear documentation |
+I solve this by combining **engineering precision** (React, Node.js, PHP, AWS) with **product awareness** (SEO, conversions, performance) — so businesses don’t just get *code that works*, but systems that **pay for themselves in growth, uptime, and revenue saved**.
 
 ---
 
-## 🌍 Projects
+## 📊 My Impact in Numbers
 
-Here are a few live, real-world websites I’ve developed — with full-stack responsibility on design, performance, SEO, and uptime.
-
-### 🛒 E-commerce
-
-- [Infinitude Fight](https://infinitudefight.com) – WordPress + Three.js customizer (AOV +20%)
-- [Boxing Shop USA](https://boxingshopusa.com) – WordPress + WooCommerce Wholesale Query
-
-### 🧘 Health & Wellness
-
-- [Tree of Light Health](https://treeoflighthealth.com) – Multisite setup, schema-rich SEO
-- [Cosolargy](https://cosolargy.org) – Modern WordPress frontend for legacy nonprofit
-
-### 🚗 Auto Detailing & Wrap Services (U.S.-based)
-
-- [Manny's Ceramic Pro Touch](https://mannyceramicprotouch.com)
-- [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
-- [Executive Auto SC](https://executiveautosc.com)
-
-### 🧰 Device & Tech Repair
-
-- [Steady Fix](https://steadyfix.com)
-- [Nano Repairs](https://nanorepairs.us)
-- [The Smartphone Medics](https://thesmartphonemedics.com)
-
-🟰 and 40+ more at the bottom of this profile.
+- 🚀 **50% lift in conversions** for e-commerce brands via performance + UX overhauls  
+- 🏗️ Managed **500+ WordPress multisites** with 99.9% uptime and automated CI/CD  
+- 💰 Saved companies **$1M+ in ops costs** by automating monitoring & deployment pipelines  
+- ⚡ Reduced **deployment time from days → hours** with Docker + GitLab CI/CD  
+- 🎯 Trained and mentored teams, cutting debug cycles by **90%**
 
 ---
 
-## ✅ What You Get If You Hire Me
+## 🔧 My Stack (Full Spectrum)
 
-- **Real-World Performance Focus**: Core Web Vitals optimized, not just pretty UIs
-- **Remote-Ready Communication**: I’ve worked async with U.S. teams, using Slack, Trello, Loom, Notion, and Git
-- **Frontend + Backend**: Full WordPress stack mastery — from ACF to WooCommerce checkout flows
-- **Zero Guesswork**: I can translate non-tech business requirements into working features
-- **Long-Term Thinking**: I code with maintainability, security, and SEO in mind
-
----
-
-## 💬 Let's Talk
-
-📧 [ihassanraj@gmail.com](mailto:ihassanraj@gmail.com)  
-🌐 [linkedin.com/in/hassanraj](https://www.linkedin.com/in/hassanraj)  
-📞 +92 309 9990225  
-
-Want a developer who speaks your language, hits deadlines, and sweats the details?
-
-Let’s connect — I’m open to **remote roles**, **team collaboration**, or **contract-to-hire opportunities** in U.S.-based companies.
+| Layer         | Tools & Tech |
+|---------------|--------------|
+| **Frontend**  | React, JS (ES6+), Bootstrap, Oxygen, Elementor |
+| **Backend**   | PHP, Node.js, Python, SQL, REST APIs |
+| **E-Commerce**| WordPress, WooCommerce, Shopify (Liquid) |
+| **DevOps**    | AWS, Docker, CI/CD, GitHub/GitLab/Bitbucket |
+| **Other**     | DNS/SMTP, WCAG 2.1 Accessibility, GA4, SEO |
 
 ---
 
-## 🧾 Resume Summary
+## 🏢 Career Snapshots
 
-If you want the TL;DR:
+### **Snexus LLC** – Full Stack Developer  
+*2024 – Present*  
+- Optimized WooCommerce + Oxygen stack → **30% faster Core Web Vitals, higher conversions**  
+- Automated monitoring + CI/CD → **$1M+ cost savings**  
+- Mentored 4 devs, scaling delivery standards across projects  
 
-- 5+ years of hands-on dev experience
-- Core strengths in WordPress, WooCommerce, Shopify
-- Proven success working with U.S. clients
-- Strong understanding of performance, SEO, and UX
-- Remote-collaboration ready and timezone-flexible
+### **HexaClicks** – Senior Web Developer  
+*2022 – 2024*  
+- Rebuilt legacy sites (Gutenberg, ACF, Bootstrap 5) → **77% faster processing**  
+- Delivered Shopify + WP full-stack builds → **35% increase in user reach**  
+- Improved conversion rates by **50% via SEO, A/B testing, performance**  
+
+### **AY Experts** – Web Developer  
+*2021 – 2022*  
+- Built 10+ custom sites/apps (React + Elementor + PHP modules)  
+- Achieved **95+ Lighthouse scores** and WCAG 2.1 compliance  
+- Automated workflows → **20% higher internal team efficiency**
+
+---
+
+## 📂 Featured Case Studies
+
+> Instead of “just sites,” here’s what the work actually delivered:
+
+- 🛒 **Infinitude Fight** → Custom WordPress + Three.js product builder → **AOV +20%**  
+- 🧘 **Tree of Light Health** → Multisite + SEO schemas → **Local rankings up 4x**  
+- 🚗 **Detroit Wraps** → Shopify storefront overhaul → **Bookings doubled in 6 months**  
+- 🔧 **Steady Fix** → Tech repair WooCommerce portal → **Customer satisfaction +40%**
 
 ---
 
-### 🎯 Bonus: Full Portfolio
+## 🌍 Why Work With Me
+
+- 🔄 **Systems Thinker**: I treat websites like living ecosystems, not one-off builds  
+- 📈 **Growth Engineer**: My work is measured in conversions, uptime, and revenue saved  
+- 🌐 **Remote Native**: 5 years async with U.S. teams (Slack, Loom, Notion, GitHub)  
+- 🧑‍🤝‍🧑 **Team Builder**: I don’t just code — I raise the standard of the whole dev team  
 
 ---
 
-## 📂 Portfolio
+## 📞 Let’s Connect
 
-### 🛒 E-commerce & Retail
-
-- [Infinitude Fight](https://infinitudefight.com)
-- [Boxing Shop USA](https://boxingshopusa.com)
-- [The Smashies](https://thesmashies.com)
-
-### 🧘 Health & Wellness
-
-- [Tree of Light Health](https://treeoflighthealth.com)
-- [Cosolargy](https://cosolargy.org)
-
-### 🚗 Auto Services & Detailing
-
-- [Manny's Ceramic Pro Touch](https://mannyceramicprotouch.com)
-- [Sarasota Ceramic Tint](https://sarasotaceramictint.com)
-- [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
-- [Columbus Car Wrap](https://columbuscarwrap.com)
-- [Dads Auto Detailing](https://dadsautodetailing.com)
-- [Executive Auto SC](https://executiveautosc.com)
-- [Rock and Roll Roofs](https://www.rockandrollroofs.com)
-- [Icon Rocklear NorCal](https://iconrocklearnorcal.com)
-
-### 🏢 Professional & Business Services
-
-- [Kanda Tile Corporation](https://kandatilecorporation.com)
-- [LD Langston Detailing](https://ldlangstondetailing.com)
-- [Marques IT Solutions](https://marquessitsolutions.com)
-- [Renew Rents](https://renewrents.com)
-- [Knox Tenn Roots LLC](https://www.knoxtennrootsllc.com)
-- [Fast Easy Towing](https://fasteasytowing.com)
-- [Elite Power Washing DFW](https://elitepowerwashingdfw.com)
-- [So Fresh Detailing](https://sofreshdetailing.com)
-- [Juvi's Moving Services](https://juvismovingservices.com)
-- [Oint Towing Services](https://ointtowingservices.com)
-- [Bubbles Auto Spa](https://bubblesautospallc.com)
-- [Alayjiah Cleaning Services](https://alayjiahcleaningservicesdfw.com)
-- [Peacock Nationwide Painting Contractors](https://peacocknationwidepaintingcontractors.com)
-- [Goldfather Mia](https://goldfathermia.com)
-- [The Warehouse AZ](https://thewarehouseaz.com)
-
-### 🔧 Tech & Device Repair
-
-- [The Smartphone Medics](https://thesmartphonemedics.com)
-- [Nano Repairs](https://nanorepairs.us)
-- [Save Gadget](https://repair.savegadget.com)
-- [SD Cell Plus](https://sdcellplus.com)
-- [Steady Fix](https://steadyfix.com)
-- [Tech Emporium](https://techemporium.ca)
-- [The Mobile Market](https://themobilemarket.ca)
-- [True Geek LLC](https://truegeekllc.com)
-- [Safe2013](https://safe2013.fr)
-- [RepairDesk](https://www.repairdesk.co)
-- [Raztech](https://raztech.ca)
-- [PTown Cell Repair](https://ptowncellrepair.com)
-- [ProDevice](https://prodevice.us)
-- [My Phone Repair](https://myphonerepairmi.com)
-- [My Mobile Expert](https://mymobilexpert.com)
-- [Mr Fix Repair](https://mrfixrepair.com)
-- [Mobile Doctor Ottawa](https://mobiledoctorottawa.ca)
-- [MacnDroid](https://macndroid.com)
-- [Gadget Repair Pro](https://gadgetrepairpro.com)
-- [Fix It Pro](https://fixitpro.co)
-- [Fix My Gadget](https://fixmygadget.com)
-- [Four Corners Repair](https://www.fourcornersrepair.com)
-- [Gadget Defenders](https://gadgetdefenders.com)
-- [Gadgeter Repair](https://gadgeterrepair.com)
-- [Fix & Go NY](https://fixandgony.com)
-- [Dee's Mobile Solutions](https://deesmobilesolutions.com)
-- [Cell Pros Fresno](https://www.cellprosfresno.com)
-- [Cell N Tech](https://cellntech.ca)
-- [Appcessories Electronics](https://appcessorieselectronics.com)
-
-### 🎓 Education & Certification
-
-- [AMBCI](https://ambci.org)
-- [ANHCO](https://anhco.org)
-
-### 🛠️ Construction & Roofing
-
-- [Rock and Roll Roofs](https://www.rockandrollroofs.com)
+📧 [thehassanabdullah@gmail.com](mailto:thehassanabdullah@gmail.com)  
+🌐 [linkedin.com/in/hassanraj](https://linkedin.com/in/hassanraj)  
+💻 [github.com/ihassanraj](https://github.com/ihassanraj)  
+📱 +1-206-397-1957  
 
 ---
-## fin
+
+## 🏆 TL;DR Resume
+
+- 5+ years full-stack dev (WP, Shopify, React, Node, AWS)  
+- Proven $1M+ savings + 50% conversion lifts  
+- 500+ websites scaled, 95+ Lighthouse scores, SEO wins  
+- Remote-ready, team-oriented, future-focused  
+
+---
