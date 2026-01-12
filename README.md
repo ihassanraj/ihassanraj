@@ -1,98 +1,116 @@
-# ⚡ Hassan Abdullah
+# Hassan Abdullah
 
-**Senior Full Stack Developer | Scaling WordPress & Shopify for SaaS, E-Commerce & Agencies**
-
-> *Turning complex web ecosystems into secure, scalable, and revenue-driving platforms.*
+**Senior WordPress & Web Developer | Performance & SEO Focused**
 
 ---
 
-## 🧭 My Core Thesis
+## Core Competencies
 
-Every company I work with faces the same bottleneck:  
-> **Web infrastructure that doesn’t scale with growth.**
-
-I solve this by combining **engineering precision** (React, Node.js, PHP, AWS) with **product awareness** (SEO, conversions, performance) — so businesses don’t just get *code that works*, but systems that **pay for themselves in growth, uptime, and revenue saved**.
-
----
-
-## 📊 My Impact in Numbers
-
-- 🚀 **50% lift in conversions** for e-commerce brands via performance + UX overhauls  
-- 🏗️ Managed **500+ WordPress multisites** with 99.9% uptime and automated CI/CD  
-- 💰 Saved companies **$1M+ in ops costs** by automating monitoring & deployment pipelines  
-- ⚡ Reduced **deployment time from days → hours** with Docker + GitLab CI/CD  
-- 🎯 Trained and mentored teams, cutting debug cycles by **90%**
+| Area | Expertise |
+|---|---|
+| **Web Development** | HTML5, CSS3, JavaScript (ES6+, jQuery), PHP, RESTful APIs, Git |
+| **CMS & E-commerce** | WordPress (Gutenberg, ACF, Elementor, Custom Themes/Plugins), WooCommerce, Shopify |
+| **Optimization** | Core Web Vitals, SEO, Caching, Responsive Design |
+| **Analytics** | Google Analytics 4, Google Tag Manager, Facebook Ad Pixel |
 
 ---
 
-## 🔧 My Stack (Full Spectrum)
+## Portfolio
 
-| Layer         | Tools & Tech |
-|---------------|--------------|
-| **Frontend**  | React, JS (ES6+), Bootstrap, Oxygen, Elementor |
-| **Backend**   | PHP, Node.js, Python, SQL, REST APIs |
-| **E-Commerce**| WordPress, WooCommerce, Shopify (Liquid) |
-| **DevOps**    | AWS, Docker, CI/CD, GitHub/GitLab/Bitbucket |
-| **Other**     | DNS/SMTP, WCAG 2.1 Accessibility, GA4, SEO |
+### E-commerce & Retail
+
+*   [Infinitude Fight](https://infinitudefight.com)
+*   [Boxing Shop USA](https://boxingshopusa.com)
+*   [The Smashies](https://thesmashies.com)
+*   [Nexgen Peptides](https://nexgenpeptides.shop)
+*   [Kona Super Coffee](https://konasupercoffee.com)
+*   [Truform Compounds](https://truformcompounds.com)
+*   [Juventee](https://juventee.com)
+
+### Health & Wellness
+
+*   [Tree of Light Health](https://treeoflighthealth.com)
+*   [Cosolargy](https://cosolargy.org)
+
+### Auto Services & Detailing
+
+*   [Manny's Ceramic Pro Touch](https://mannyceramicprotouch.com)
+*   [Sarasota Ceramic Tint](https://sarasotaceramictint.com)
+*   [Detroit Wraps and Graphics](https://detroitwrapsandgraphics.com)
+*   [Columbus Car Wrap](https://columbuscarwrap.com)
+*   [Dads Auto Detailing](https://dadsautodetailing.com)
+*   [Executive Auto SC](https://executiveautosc.com)
+*   [Rock and Roll Roofs](https://www.rockandrollroofs.com)
+*   [Icon Rocklear NorCal](https://iconrocklearnorcal.com)
+
+### Professional & Business Services
+
+*   [Kanda Tile Corporation](https://kandatilecorporation.com)
+*   [LD Langston Detailing](https://ldlangstondetailing.com)
+*   [Marques IT Solutions](https://marquessitsolutions.com)
+*   [Renew Rents](https://renewrents.com)
+*   [Knox Tenn Roots LLC](https://www.knoxtennrootsllc.com)
+*   [Fast Easy Towing](https://fasteasytowing.com)
+*   [Elite Power Washing DFW](https://elitepowerwashingdfw.com)
+*   [So Fresh Detailing](https://sofreshdetailing.com)
+*   [Juvi's Moving Services](https://juvismovingservices.com)
+*   [Oint Towing Services](https://ointtowingservices.com)
+*   [Bubbles Auto Spa](https://bubblesautospallc.com)
+*   [Alayjiah Cleaning Services](https://alayjiahcleaningservicesdfw.com)
+*   [Peacock Nationwide Painting Contractors](https://peacocknationwidepaintingcontractors.com)
+*   [Goldfather Mia](https://goldfathermia.com)
+*   [The Warehouse AZ](https://thewarehouseaz.com)
+*   [Starlite Transportations](https://starlitetransportations.com)
+*   [Rosewood Flats](https://rosewoodflats.com)
+*   [One Roof 412](https://oneroof412.com)
+*   [P3 Energy Solutions](https://p3energysolutions.com)
+*   [Imperial Black Limo](https://imperialblacklimo.com)
+
+### Tech & Device Repair
+
+*   [The Smartphone Medics](https://thesmartphonemedics.com)
+*   [Nano Repairs](https://nanorepairs.us)
+*   [Save Gadget](https://repair.savegadget.com)
+*   [SD Cell Plus](https://sdcellplus.com)
+*   [Steady Fix](https://steadyfix.com)
+*   [Tech Emporium](https://techemporium.ca)
+*   [The Mobile Market](https://themobilemarket.ca)
+*   [True Geek LLC](https://truegeekllc.com)
+*   [Safe2013](https://safe2013.fr)
+*   [RepairDesk](https://www.repairdesk.co)
+*   [Raztech](https://raztech.ca)
+*   [PTown Cell Repair](https://ptowncellrepair.com)
+*   [ProDevice](https://prodevice.us)
+*   [My Phone Repair](https://myphonerepairmi.com)
+*   [My Mobile Expert](https://mymobilexpert.com)
+*   [Mr Fix Repair](https://mrfixrepair.com)
+*   [Mobile Doctor Ottawa](https://mobiledoctorottawa.ca)
+*   [MacnDroid](https://macndroid.com)
+*   [Gadget Repair Pro](https://gadgetrepairpro.com)
+*   [Fix It Pro](https://fixitpro.co)
+*   [Fix My Gadget](https://fixmygadget.com)
+*   [Four Corners Repair](https://www.fourcornersrepair.com)
+*   [Gadget Defenders](https://gadgetdefenders.com)
+*   [Gadgeter Repair](https://gadgeterrepair.com)
+*   [Fix & Go NY](https://fixandgony.com)
+*   [Dee's Mobile Solutions](https://deesmobilesolutions.com)
+*   [Cell Pros Fresno](https://www.cellprosfresno.com)
+*   [Cell N Tech](https://cellntech.ca)
+*   [Appcessories Electronics](https://appcessorieselectronics.com)
+
+### Education & Certification
+
+*   [AMBCI](https://ambci.org)
+*   [ANHCO](https://anhco.org)
+
+### Construction & Roofing
+
+*   [Rock and Roll Roofs](https://www.rockandrollroofs.com)
 
 ---
 
-## 🏢 Career Snapshots
+## Contact
 
-### **Snexus LLC** – Full Stack Developer  
-*2024 – Present*  
-- Optimized WooCommerce + Oxygen stack → **30% faster Core Web Vitals, higher conversions**  
-- Automated monitoring + CI/CD → **$1M+ cost savings**  
-- Mentored 4 devs, scaling delivery standards across projects  
-
-### **HexaClicks** – Senior Web Developer  
-*2022 – 2024*  
-- Rebuilt legacy sites (Gutenberg, ACF, Bootstrap 5) → **77% faster processing**  
-- Delivered Shopify + WP full-stack builds → **35% increase in user reach**  
-- Improved conversion rates by **50% via SEO, A/B testing, performance**  
-
-### **AY Experts** – Web Developer  
-*2021 – 2022*  
-- Built 10+ custom sites/apps (React + Elementor + PHP modules)  
-- Achieved **95+ Lighthouse scores** and WCAG 2.1 compliance  
-- Automated workflows → **20% higher internal team efficiency**
-
----
-
-## 📂 Featured Case Studies
-
-> Instead of “just sites,” here’s what the work actually delivered:
-
-- 🛒 **Infinitude Fight** → Custom WordPress + Three.js product builder → **AOV +20%**  
-- 🧘 **Tree of Light Health** → Multisite + SEO schemas → **Local rankings up 4x**  
-- 🚗 **Detroit Wraps** → Shopify storefront overhaul → **Bookings doubled in 6 months**  
-- 🔧 **Steady Fix** → Tech repair WooCommerce portal → **Customer satisfaction +40%**
-
----
-
-## 🌍 Why Work With Me
-
-- 🔄 **Systems Thinker**: I treat websites like living ecosystems, not one-off builds  
-- 📈 **Growth Engineer**: My work is measured in conversions, uptime, and revenue saved  
-- 🌐 **Remote Native**: 5 years async with U.S. teams (Slack, Loom, Notion, GitHub)  
-- 🧑‍🤝‍🧑 **Team Builder**: I don’t just code — I raise the standard of the whole dev team  
-
----
-
-## 📞 Let’s Connect
-
-📧 [thehassanabdullah@gmail.com](mailto:thehassanabdullah@gmail.com)  
-🌐 [linkedin.com/in/hassanraj](https://linkedin.com/in/hassanraj)  
-💻 [github.com/ihassanraj](https://github.com/ihassanraj)  
-📱 +1-206-397-1957  
-
----
-
-## 🏆 TL;DR Resume
-
-- 5+ years full-stack dev (WP, Shopify, React, Node, AWS)  
-- Proven $1M+ savings + 50% conversion lifts  
-- 500+ websites scaled, 95+ Lighthouse scores, SEO wins  
-- Remote-ready, team-oriented, future-focused  
-
----
+📧 [ihassanraj@gmail.com](mailto:ihassanraj@gmail.com)  
+🌐 [linkedin.com/in/hassanraj](https://www.linkedin.com/in/hassanraj)  
+📞 +92 309 9990225
