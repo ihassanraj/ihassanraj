@@ -266,3 +266,4 @@ A wider sample of live work, grouped by category. Most are U.S. clients, with a 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:1F4E79&height=120&section=footer" alt="footer" />
 </p>
+ 
