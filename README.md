@@ -1,12 +1,12 @@
-<!-- ========== HEADER BANNER (animated) ========== -->
+<!-- ========== HEADER (clean, name only) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:5DADE2&height=210&section=header&text=Hassan%20Abdullah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20WordPress%20%E2%80%A2%20Multi-CMS%20%E2%80%A2%20Performance%20%26%20SEO&descSize=18&descAlign=50&descAlignY=60" alt="Hassan Abdullah header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F4E79&height=110&section=header&text=Hassan%20Abdullah&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=55" alt="Hassan Abdullah" />
 </p>
 
 <!-- ========== TYPING SVG (rotating taglines) ========== -->
 <p align="center">
   <a href="https://github.com/ihassanraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&multiline=false&width=760&lines=Web+developer+based+in+Lahore%2C+Pakistan;4%2B+years+building+sites+for+US+agencies+%26+e-commerce;WordPress%2C+Shopify%2C+Squarespace%2C+Wix%2C+ClickFunnels%2C+Webflow;Core+Web+Vitals+is+the+game.+Lighthouse+95%2B+is+the+score;AI+in+the+toolkit%3A+Claude+Code%2C+Cursor%2C+Antigravity" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&multiline=false&width=900&lines=Web+developer+based+in+Lahore%2C+Pakistan;Building+production+sites+for+US+agencies+and+e-commerce;Working+across+WordPress%2C+Shopify%2C+and+more;Performance+focused.+Lighthouse+95%2B+on+the+regular;AI+in+the+toolkit%2C+used+where+it+actually+helps" alt="rotating taglines" />
   </a>
 </p>
 
@@ -263,7 +263,4 @@ A wider sample of live work, grouped by category. Most are U.S. clients, with a 
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:1F4E79&height=120&section=footer" alt="footer" />
-</p>
- 
+<p align="center"><sub>Built and maintained by Hassan Abdullah, in Lahore.</sub></p>
